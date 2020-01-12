@@ -1,4 +1,0 @@
-Library :
-- Pandas
-- Numpy
-- Matplotlib
